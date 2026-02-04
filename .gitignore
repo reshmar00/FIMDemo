@@ -1,3 +1,9 @@
+# Large files
+resources/
+*.tif
+*.tiff
+*.gpkg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
