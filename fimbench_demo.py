@@ -2,8 +2,8 @@
 import fimeval as fe
 
 # User inputs: either model FIM raster, boundary AOI, or both
-raster_path = "./paths/to/your/model_fim.tif"
-boundary_path = "./paths/to/your/boundary.gpkg"
+raster_path = "resources/PSS_3_0m_20240623T172354_955825W430019N_BM.tif"
+boundary_path = "resources/PSS_3_0m_20240623T172354_955825W430019N_AOI.gpkg"
 
 """
 Supports multiple combinations of filters. Choose ONE pattern and set the
